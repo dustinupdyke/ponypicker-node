@@ -1,0 +1,10 @@
+{
+    "name": "PonyPicker",
+    "description": "Pony Picker!",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "latest",
+		"mongodb": "latest"
+    }
+}
